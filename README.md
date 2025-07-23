@@ -14,7 +14,7 @@ https://blog.csdn.net/2301_79813267/article/details/136429523?spm=1001.2014.3001
 使用与讲解：
 https://blog.csdn.net/2301_79813267/article/details/136592160?spm=1001.2014.3001.5501
 
-3.list；
+3.list:
 c部分对list1的详细讲解：
 https://blog.csdn.net/2301_79813267/article/details/135024979?spm=1001.2014.3001.5501
 c++list实现讲解：
